@@ -145,7 +145,7 @@ CREATE TABLE IF NOT EXISTS public.user_job_details
 
 ```
 
-## Register a new user
+## Register a new user(Sign Up)
 
 ## First Create User for it
 
@@ -178,7 +178,7 @@ CREATE TABLE IF NOT EXISTS public.user_job_details
 }
 
 ```
-
+Swagger Link http://localhost:8080/swagger/index.html#/Auth/post_v1_auth_signup
 ## Login a User
 
 ## Request
